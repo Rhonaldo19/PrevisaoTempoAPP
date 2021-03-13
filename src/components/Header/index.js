@@ -28,7 +28,7 @@ export default function ({background, weather, icon}) {
 
 const styles = StyleSheet.create({
     header: {
-        width: '100%',
+        width: '95%',
         height: '55%',
         alignItems: 'center',
         justifyContent: 'center',
